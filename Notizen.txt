@@ -1,0 +1,3 @@
+List = Kann verändert werden []
+Dictionaries = Haben Key Wörter {}
+Tuples = Können nicht verändert werden ()
