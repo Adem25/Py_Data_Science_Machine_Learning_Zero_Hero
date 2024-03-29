@@ -1,3 +1,7 @@
 List = Kann verändert werden []
 Dictionaries = Haben Key Wörter {}
 Tuples = Können nicht verändert werden ()
+Pandas = verwendet daten, organisiert und verarbeitet. Pandas ist auf numpy aufgebaut.
+Numpy = benutzt mathematische berechnungen
+Seaborn = wurde auf Matplotlib gebaut
+numpy array = haben mehr funktionen denn Lists
